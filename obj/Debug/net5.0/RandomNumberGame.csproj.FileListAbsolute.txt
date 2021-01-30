@@ -1,0 +1,16 @@
+C:\Users\ahuec\Desktop\RandomNumberGame\bin\Debug\net5.0\RandomNumberGame.exe
+C:\Users\ahuec\Desktop\RandomNumberGame\bin\Debug\net5.0\RandomNumberGame.deps.json
+C:\Users\ahuec\Desktop\RandomNumberGame\bin\Debug\net5.0\RandomNumberGame.runtimeconfig.json
+C:\Users\ahuec\Desktop\RandomNumberGame\bin\Debug\net5.0\RandomNumberGame.runtimeconfig.dev.json
+C:\Users\ahuec\Desktop\RandomNumberGame\bin\Debug\net5.0\RandomNumberGame.dll
+C:\Users\ahuec\Desktop\RandomNumberGame\bin\Debug\net5.0\ref\RandomNumberGame.dll
+C:\Users\ahuec\Desktop\RandomNumberGame\bin\Debug\net5.0\RandomNumberGame.pdb
+C:\Users\ahuec\Desktop\RandomNumberGame\obj\Debug\net5.0\RandomNumberGame.csprojAssemblyReference.cache
+C:\Users\ahuec\Desktop\RandomNumberGame\obj\Debug\net5.0\RandomNumberGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahuec\Desktop\RandomNumberGame\obj\Debug\net5.0\RandomNumberGame.AssemblyInfoInputs.cache
+C:\Users\ahuec\Desktop\RandomNumberGame\obj\Debug\net5.0\RandomNumberGame.AssemblyInfo.cs
+C:\Users\ahuec\Desktop\RandomNumberGame\obj\Debug\net5.0\RandomNumberGame.csproj.CoreCompileInputs.cache
+C:\Users\ahuec\Desktop\RandomNumberGame\obj\Debug\net5.0\RandomNumberGame.dll
+C:\Users\ahuec\Desktop\RandomNumberGame\obj\Debug\net5.0\ref\RandomNumberGame.dll
+C:\Users\ahuec\Desktop\RandomNumberGame\obj\Debug\net5.0\RandomNumberGame.pdb
+C:\Users\ahuec\Desktop\RandomNumberGame\obj\Debug\net5.0\RandomNumberGame.genruntimeconfig.cache
