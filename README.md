@@ -21,16 +21,16 @@ This section should list any major frameworks that you built your project using.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-first make sure .Net is installed on your system then run:
+First make sure .Net is installed on your system, and then run these commands in your terminal:
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/dhuecker/RandomNumberGame
    ```
 2. Build Game
    ```sh
-   npm install
+   dotnet build
    ```
 3. Run game
    ```sh
-   npm install
+   dotnet run
    ```
