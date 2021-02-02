@@ -4,7 +4,6 @@ The point of this game is to pick the correct random number the computer is thin
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Random number Game][product-screenshot]](https://example.com)
 
 The reason of this game is to ask through the terminal the user to try guessing a random number between 1 - 10. Harder Levels will be built in the future
 
